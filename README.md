@@ -9,7 +9,6 @@ Javascript Snake Game. Feel free to use.
 
 
 
-
-
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
